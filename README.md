@@ -18,7 +18,7 @@ Follow these steps to swiftly install and configure the IBSNG Radius Server on y
 1. **Run the Command**
 
     ```bash
-    bash <(curl -s https://raw.githubusercontent.com/imafaz/IBSng/main/install.sh)
+    bash <(curl -s https://raw.githubusercontent.com/AfazTech/IBSng/main/install.sh)
     ```
 
 2. **Follow On-Screen Instructions**
